@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav Purokait
-- 👀 I’m interested in Coding andfind new oppurtunities 
+- 👀 I’m interested in Coding and finding new oppurtunities 
 - 🌱 I’m currently learning python developement 
 - 💞️ I’m looking to collaborate on development, scrapping , scripting
 - 📫 How to reach me ...
